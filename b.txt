@@ -1,1 +1,1 @@
-update b.txt frist line in beanch master
+แก้ไข b.txt บรรทัดที่ 1 ใน branch feature2
